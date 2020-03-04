@@ -1,0 +1,8 @@
+class sample:
+    name = input("Enter Name: ") 
+    age = input("Enter Age: ") 
+    roll = input("Enter Roll no: ") 
+a=sample()
+print("Name =",a.name)
+print("Age =",a.age)
+print("Roll No.",a.roll)
